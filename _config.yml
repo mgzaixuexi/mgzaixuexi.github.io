@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 林睦的博客 | My Blog
+title: 林睦的技术笔记
+SEOTitle: 林睦的博客 | 目前在做通信技术开发
 header-img: img/home-bg.jpg
 email: mgzaixuexi@gmail.com
 description: "这里是林睦的个人博客, 借用了 @Hux黄玄 的博客模板，感谢开源精神 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+keyword: "林睦, Hux Blog, 博客, 个人网站, 日常, 互联网, Web, 可见光, 通信, AI, 开发, 设计"
+url: "https://mgzaixuexi.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+#weibo_username: huxpro
+#zhihu_username: huxpro
+github_username: mgzaixuexi
+#twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
